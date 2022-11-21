@@ -1,0 +1,10 @@
+Scraping is a two step process:
+
+we  systematically find and download web pages.
+we can take those web pages and extract information from them.
+If you have a Python installation like 
+pip install scrapy
+step2;
+scrapy runspider scraper.py
+ Extracting Data from a Page
+ Step 3 — Crawling Multiple Pages
